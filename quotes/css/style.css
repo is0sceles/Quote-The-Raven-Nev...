@@ -1,0 +1,22 @@
+body {
+  padding-top: 3rem;
+}
+
+.container {
+  padding-top: 2rem;
+}
+
+#data {
+  padding: 4rem 2rem 2rem 2rem;
+}
+
+.nav {
+  text-align: center;
+  background: black;
+  color: white;
+  padding-bottom: .3rem;
+}
+
+p {
+  padding-top: 3rem;
+}
